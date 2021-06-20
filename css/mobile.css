@@ -18,7 +18,17 @@
     .topo {
         text-align: center;
     }
+
+    .topo ul li {
+        margin: 0;
+    }
+    .topo ul {
+        margin: 0;
+        text-align: center;
+    }
+
     .topo ul li a {
+        margin: 30px;
         display: block;
         float: left;
         border: 2px solid #f5de0ace;
@@ -27,6 +37,7 @@
         border-radius: 30px;
         margin-bottom: -13px;
         font-size: 16px;
+        text-align: center;
     }
 
     .banner h1 {
