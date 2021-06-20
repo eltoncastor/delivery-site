@@ -1,10 +1,13 @@
 @media only screen and (max-width:787px) {
+    p {
+        margin-bottom: -30px;
+    }
+
     #logo {
-        margin-top: 10px;
-        margin-left: 75px;
+        margin-left: 60px;
         height: 150px;
         width: 190px;
-        margin-bottom: -10px;
+        margin-bottom: -6px;
     }
 
     .header {
@@ -18,11 +21,12 @@
     .topo ul li a {
         display: block;
         float: left;
-        border: 2px solid #f5dd0a;
-        width: 220px;
+        border: 2px solid #f5de0ace;
+        width: 200px;
         padding: 10px;
-        border-radius: 15px;
+        border-radius: 30px;
         margin-bottom: -13px;
+        font-size: 16px;
     }
 
     .banner h1 {
