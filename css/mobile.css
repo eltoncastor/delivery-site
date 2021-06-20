@@ -1,0 +1,46 @@
+@media only screen and (max-width:787px) {
+    #logo {
+        margin-top: 10px;
+        margin-left: 75px;
+        height: 150px;
+        width: 190px;
+        margin-bottom: -10px;
+    }
+
+    .header {
+        position: relative;
+        height: 390px;
+    }
+
+    .topo {
+        text-align: center;
+    }
+    .topo ul li a {
+        display: block;
+        float: left;
+        border: 2px solid #f5dd0a;
+        width: 220px;
+        padding: 10px;
+        border-radius: 15px;
+        margin-bottom: -13px;
+    }
+
+    .banner h1 {
+        font-size: 55px;
+        margin-top: 145px;
+    }
+
+    .banner a {
+        font-size: 17px;
+    }
+
+    footer h3{
+        margin-top: 6px;
+        line-height: 20px;
+    }
+
+    #slide-p2 {
+        font-size: 15px;
+        line-height: 24px;
+    }
+}
