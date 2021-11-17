@@ -1,0 +1,1 @@
+windows.alert('Este site é um protótipo feito exclusivamente para treinar e aprender mais sobre desenvolvimento web.')
