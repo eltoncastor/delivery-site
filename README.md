@@ -1,2 +1,2 @@
 # delivery-site
- Um site que leva o usuário para fazer pedidos diretamente pelo WhatsApp
+ Um site protótipo que leva o usuário para fazer pedidos diretamente pelo WhatsApp
